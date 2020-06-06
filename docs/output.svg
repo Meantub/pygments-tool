@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<g font-family="Hack" font-size="14px">
+<text x="0" y="14" xml:space="preserve"><tspan fill="#c678dd">class</tspan>&#160;<tspan fill="#E5C07B">Variables</tspan>&#160;<tspan fill="#abb2bf">{</tspan></text>
+<text x="0" y="33" xml:space="preserve">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<tspan fill="#c678dd">public</tspan>&#160;<tspan fill="#c678dd">static</tspan>&#160;<tspan fill="#c678dd">void</tspan>&#160;<tspan fill="#61AFEF">main</tspan><tspan fill="#abb2bf">(</tspan><tspan fill="#e06c75">String</tspan><tspan fill="#abb2bf">[</tspan><tspan fill="#abb2bf">]</tspan>&#160;<tspan fill="#e06c75">args</tspan><tspan fill="#abb2bf">)</tspan>&#160;<tspan fill="#abb2bf">{</tspan></text>
+<text x="0" y="52" xml:space="preserve">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<tspan fill="#e06c75">String</tspan>&#160;<tspan fill="#e06c75">name</tspan>&#160;<tspan fill="#abb2bf">=</tspan>&#160;<tspan fill="#98c379">&quot;Ken&quot;</tspan><tspan fill="#abb2bf">;</tspan></text>
+<text x="0" y="71" xml:space="preserve">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<tspan fill="#c678dd">int</tspan>&#160;<tspan fill="#e06c75">age</tspan>&#160;<tspan fill="#abb2bf">=</tspan>&#160;<tspan fill="#d19a66">2</tspan><tspan fill="#abb2bf">;</tspan></text>
+<text x="0" y="90" xml:space="preserve">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<tspan fill="#abb2bf">}</tspan></text>
+<text x="0" y="109" xml:space="preserve"><tspan fill="#abb2bf">}</tspan></text>
+<text x="0" y="128" xml:space="preserve"></text></g></svg>
